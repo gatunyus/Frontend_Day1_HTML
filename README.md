@@ -32,5 +32,6 @@ Repository นี้รวบรวมไฟล์แบบฝึกหัด (L
    ```bash
    git clone [https://github.com/gatunyus/Frontend_Day1_HTML.git](https://github.com/gatunyus/Frontend_Day1_HTML.git)
    ```
-**การเปิดดูผลลัพธ์** - **วิธีที่ 1 (เปิดโดยตรง):** ดับเบิลคลิกที่ไฟล์ `.html` ที่ต้องการ (เช่น `lab1.html`) เพื่อเปิดดูผลลัพธ์ผ่าน Web Browser (เช่น Google Chrome, Microsoft Edge) ทันที
+**การเปิดดูผลลัพธ์** 
+   - **วิธีที่ 1 (เปิดโดยตรง):** ดับเบิลคลิกที่ไฟล์ `.html` ที่ต้องการ (เช่น `lab1.html`) เพื่อเปิดดูผลลัพธ์ผ่าน Web Browser (เช่น Google Chrome, Microsoft Edge) ทันที
    - **วิธีที่ 2 (แนะนำ):** เปิดโฟลเดอร์นี้ด้วย Text Editor เช่น **VS Code** และคลิกขวาเลือก `Open with Live Server` (หากติดตั้ง Extension ไว้) เพื่อดูผลลัพธ์การแก้ไขโค้ดแบบเรียลไทม์
